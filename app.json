@@ -1,9 +1,9 @@
 {
-    "name": "ʙᴀɴ ᴀʟʟ",
+    "name": "ᴀsʙᴀɴᴀʟʟ",
     "description": "sɪᴍᴘʟᴇ ʙᴏᴛ ᴛᴏ ʙᴀɴ ᴀʟʟ ᴛʜᴇ ᴍᴇᴍʙᴇʀs ғʀᴏᴍ ᴛʜᴇ ᴡʜᴏʟᴇ ᴄʜᴀᴛs",
     "logo": "https://telegra.ph/file/bc9699c365f82b7ca0f32.jpg",
-    "keywords": ["ᴋɪsᴀɴ-ʀᴀᴠɪ", "ʙᴀɴ-ᴀʟʟ"],
-    "repository": "https://github.com/iVINGSTYLE/BANALL",
+    "keywords": ["ᴠᴀsɪ", "ʙᴀɴ-ᴀʟʟ"],
+    "repository": "https://github.com/Ragu420/ASBANALL",
     "stack": "container",
     "env": {
         "BOT_TOKEN": {
